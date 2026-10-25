@@ -10,3 +10,7 @@ vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&
 vless://ad263f1c-199e-4aaf-bf22-c3ad0407d377@31.77.148.89:45021?security=&type=tcp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443?security=reality&sni=www.mozilla.org&fp=chrome&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=8f79726c5002&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&sni=www.cloudflare.com&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://humanity@185.225.68.232:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://humanity@88.216.69.253:443?security=tls&sni=www.pleadcourt.org&alpn=http/1.1&allowInsecure=1&type=ws&path=/assignment&host=www.pleadcourt.org#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
